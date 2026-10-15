@@ -17,7 +17,7 @@ The notebook includes:
 
 The Power BI file contains a correlation matrix, a feature-pair table, and a ranked column chart built from a long-form correlation table.
 
-![Cumulative explained variance for principal components](assets/pca-variance.png)
+![Cumulative explained variance for principal components](pca-variance.png)
 
 *Saved notebook output from the PCA exploration.*
 
